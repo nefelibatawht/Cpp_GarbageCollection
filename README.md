@@ -1,7 +1,7 @@
 # Cpp_GarbageCollection
 java课后实验，C++实现的垃圾回收机制
 
-## 【文档】利用C++编写C++的内存垃圾清理类
+## 【文档】利用C++编写简单的java的内存垃圾清理类
 
 > @Author : Nefelibata. W
 >
